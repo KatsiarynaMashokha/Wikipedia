@@ -6,3 +6,69 @@
 #line2 {
   text-align:
 }
+
+
+
+.columnOne {
+  width: 50%;
+  float: left;
+  border: 1px solid teal;
+  padding: 5px;
+  margin-right: 0px;
+  background-color: #CEEED4;
+}
+
+.columnTwo {
+  width: 50%;
+  float: left;
+  border: 1px solid teal;
+  padding: 5px;
+  background-color: #CFE5EA;
+}
+
+.columnThree {
+  width: 100%;
+  border: 1px solid purple;
+  background-color: #E6D3F0;
+  margin: 4px;
+}
+
+.columnTwo h4 {
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 4px;
+  margin-left: 5px;
+  background-color: #68B2C2;
+}
+
+.columnOne h4 {
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 4px;
+  background-color: #A0D8A9
+
+}
+
+.columnThree h4 {
+  border: 1px solid pink;
+  background-color: #983DCD;
+}
+
+#hurricane {
+  float: left;
+  padding-right: 10px;
+}
+
+#larvae {
+  float: right;
+  padding-bottom: 10px;
+}
+
+#jayne {
+  float: right;
+  padding-left: 10px;
+}
+
+#wilbert {
+
+}
